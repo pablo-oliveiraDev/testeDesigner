@@ -1,0 +1,43 @@
+.header-logo img {
+    border-radius: 45%;
+    width: 7vw !important;
+    height: 100px;
+}
+
+div label .fav-label {
+    background-color: #fdedae !important;
+}
+
+#widget-busca-6,
+#busca-livre {
+    background-color: #3ebfc2;
+    color: #fdedae !important;
+}
+
+#busca-livre .tab-content.busca-submit-tratado.clearfix {
+    background-color: #3ebfc2 !important;
+}
+
+.destaque-valores,
+#detaque-mais-info {
+    background-color: #3ebfc2 !important;
+    color: #fdedae !important;
+}
+
+div .lias_201414,
+.links-3,
+.lias_201390 {
+    background-color: #3ebfc2 !important;
+    color: #fdedae !important
+}
+
+#destaque-lancamento {
+    background-color: #3ebfc2 !important;
+    color: #fdedae !important
+}
+
+.footer-logo img {
+    border-radius: 45%;
+    width: 2vw !important;
+    height: 2vw;
+}
